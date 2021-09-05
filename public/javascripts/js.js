@@ -11,3 +11,5 @@ function TinhTong(){
      document.querySelector('#kq').innerHTML = tong;
      //5. Gọi hàm tính tổng ở thuộc tính onClick trên nut bấm. 
 } 
+
+
